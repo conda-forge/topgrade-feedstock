@@ -1,5 +1,5 @@
 context:
-  version: "17.2.0"
+  version: "17.2.1"
 
 package:
   name: topgrade
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/topgrade-rs/topgrade/archive/v${{ version }}.tar.gz
-  sha256: 716fa4ab554bd0185900af466654bfded79e9256f3177cd86083c38497540308
+  sha256: f8a0868885a75b3591ab7d77f2e1d7d9a0178331ae058f613dac219bf47e03e6
 
 build:
   number: 0
